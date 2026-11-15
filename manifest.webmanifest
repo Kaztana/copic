@@ -1,0 +1,9 @@
+{
+  "name": "Copic Ciao 購入管理",
+  "short_name": "Ciao管理",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8fa",
+  "theme_color": "#fff8fa",
+  "lang": "ja"
+}
